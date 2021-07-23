@@ -1,0 +1,27 @@
+body {
+     background: CornSilk;
+    opacity: .85;
+    /* background-image: url("https://res.cloudinary.com/homputer/image/upload/v1500589876/library-488678_1280_g14n8b.jpg"); */
+    
+  }
+  
+  input {
+    text-align: center;
+  }
+  
+  .resultBox {
+    background: white;
+    border-color: black;
+  }
+  
+  div.card:hover {
+    border-left-width: 3px;
+    border-left-color: CornFlowerBlue;
+    transition: .5s;
+  }
+  
+  div.card {
+    border-left-width: 3px;
+  }
+  
+  
